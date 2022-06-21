@@ -1,0 +1,1 @@
+add_executable(simple-client cppc.cpp)
